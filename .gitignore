@@ -43,3 +43,7 @@ desktop.ini
 .mypy_cache/
 .ruff_cache/
 .pytest_cache/
+
+
+assets/
+*.mp4
